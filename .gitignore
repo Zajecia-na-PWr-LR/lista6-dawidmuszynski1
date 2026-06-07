@@ -16,3 +16,7 @@ env.bak/
 venv.bak/
 
 # uv
+
+.DS_Store
+.python-version
+*.csv
